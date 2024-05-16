@@ -1,4 +1,4 @@
-## HELLO
+﻿## HELLO
 ---
 I'm README
-�ѱ�
+한글
